@@ -1,0 +1,19 @@
+p{
+    background-color:black;
+    color: white;
+}
+.contact{
+    background-color: blue;
+}
+h1{
+    color: red;
+}
+form{
+    text-align: center;
+    background-color: lightblue;
+}
+.signup-btn{
+    color: white;
+    background-color: red;
+
+}
